@@ -1,7 +1,5 @@
-# Journals - travelling in gz :ram:
+# Journals 
 
-In 2023, a new idea kicked in to travel in gz, taking advantage of its currently advanced transportation network
-
-## 20231004 Panyu square
-Panyu square connects subway line3,22,18
-Visited Aeon mall and Jisheng wanke
+## journal_gz
+In 2023, a new idea emerged in to travel in gz
+gz journal [journal_gz](journal_gz.pdf)
